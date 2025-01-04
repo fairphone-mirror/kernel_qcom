@@ -111,3 +111,4 @@ crm.ko
 bcl_pmic5.ko
 qcom-dload-mode.ko
 haptic.ko
+eswin.ko
